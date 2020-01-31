@@ -288,7 +288,7 @@
     <bouncycastle.version>1.60</bouncycastle.version>
     <commons-collections.version>3.2.2</commons-collections.version>
     <spotbugsannotations.version>3.1.9</spotbugsannotations.version>
-    <checkstyle.version>8.17</checkstyle.version>
+    <checkstyle.version>8.29</checkstyle.version>
   </properties>
 
   <dependencyManagement>
